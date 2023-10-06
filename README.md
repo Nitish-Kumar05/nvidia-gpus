@@ -28,23 +28,3 @@ Customer reviews are presented in Bootstrap cards with a clean layout.
 
 A Bootstrap-styled contact us form is included for user inquiries.
 
-### Footer
-
-The page includes a footer with Bootstrap styles for a polished look.
-
-## Installation
-
-Explain how to install and set up the project.
-
-## Usage
-
-Provide instructions on how to use and customize the product page.
-
-## Contributing
-
-Explain how others can contribute to the project.
-
-## License
-
-Specify the license for the project.
-
